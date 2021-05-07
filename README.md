@@ -2,11 +2,15 @@
 
 ### Hi there, I'm PyDev19 👋
 
-## I am a python programmer who makes desktop apps using GUI modules
+## I am a python/js programmer who makes desktop apps using GUI modules/frameworks
 - I make desktop apps using tkinter in python 3.x
+- I also make desktop apps using electron and javascript
 - I am currently take lessons from WhiteHat JR
 - Fun fact: My favourite colour is red. 
 
-### Connect with me:
-
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>]
+### Languages
+[<img align="left" alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
+[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
+[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
+[<img align="left" alt="Node JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][nodejs]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][python]
