@@ -20,4 +20,4 @@
 ### Frameworks
 <img align="left" alt="ElectronJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"/>
 <img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt="Tkinter" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi2.wp.com%2Fiot4beginners.com%2Fwp-content%2Fuploads%2F2020%2F04%2F65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg%3Ffit%3D375%252C422%26ssl%3D1&imgrefurl=https%3A%2F%2Fiot4beginners.com%2Ftkinter-based-gui-application-form%2F&tbnid=yNJ5EnQu2WAdjM&vet=12ahUKEwiksPaHhrjwAhUBcX0KHVPuCV4QMygAegUIARCwAQ..i&docid=r_TiqZKj5uc4GM&w=375&h=422&q=tkinter%20logo&client=opera-gx&ved=2ahUKEwiksPaHhrjwAhUBcX0KHVPuCV4QMygAegUIARCwAQ"/>
+<img align="left" alt="Tkinter" width="26px" src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"/>
