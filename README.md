@@ -34,8 +34,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ### GitHub Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyDev19&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
