@@ -6,3 +6,7 @@
 - I make desktop apps using tkinter in python 3.x
 - I am currently take lessons from WhiteHat JR
 - Fun fact: My favourite colour is red. 
+
+### Connect with me:
+
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
